@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "design-patterns"
+name = "design-patterns-appied-to-python"
 version = "0.1.0"
 description = ""
 authors = ["Ruud Juffermans"]
